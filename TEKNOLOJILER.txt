@@ -1,0 +1,49 @@
+E-Sağlık Projesi Teknolojileri
+
+Frontend:
+- React (JavaScript kütüphanesi)
+- TypeScript (Type-safe JavaScript)
+- Vite (Modern build tool)
+- Tailwind CSS (CSS framework)
+- Lucide React (Icon kütüphanesi)
+- React Router (Routing kütüphanesi)
+
+Backend:
+- Supabase (Backend as a Service)
+  - Supabase Auth (Kimlik doğrulama)
+  - Supabase Database (PostgreSQL veritabanı)
+  - Supabase Storage (Dosya depolama)
+
+Geliştirme Araçları:
+- ESLint (Kod kalitesi kontrolü)
+- PostCSS (CSS işleme)
+- Autoprefixer (CSS prefix ekleme)
+
+Veritabanı:
+- PostgreSQL (Supabase üzerinden)
+
+UI/UX:
+- Responsive Design (Mobil uyumlu)
+- Dark/Light Mode (Görünüm modları)
+- Custom Animations (Animasyonlar)
+- Icons (Lucide React)
+
+Güvenlik:
+- JWT Authentication (Supabase Auth)
+- HTTPS (Veri güvenliği)
+- Input Validation (Giriş doğrulama)
+
+Geliştirme Ortamı:
+- Node.js (Backend çalışma ortamı)
+- npm (Paket yöneticisi)
+- .env (Çevre değişkenleri)
+- Git (Sürüm kontrolü)
+
+Modern Özellikler:
+- Real-time updates (Supabase ile)
+- State Management (React Context)
+- Form Validation (Form doğrulama)
+- Loading States (Yükleme durumları)
+- Error Handling (Hata yönetimi)
+
+Not: Bu liste proje kodunun analizi sonucu oluşturulmuştur ve projenin mevcut durumunu yansıtmaktadır.
